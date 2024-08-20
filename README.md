@@ -56,10 +56,3 @@ Follow these steps to get the project running on your local machine:
 - Implement a hint system for more challenging words.
 - Add more word lists for increased difficulty.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this `README.md` as needed!
